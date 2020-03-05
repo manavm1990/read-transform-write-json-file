@@ -1,34 +1,32 @@
-{
-  "catalog": [
-    {
-      "name": "Hammer",
-      "desc": "A 🔨",
-      "price": 1.5
-    },
-    {
-      "name": "Chainsaw",
-      "desc": "Cut up 🧟‍♂️s.",
-      "price": 11.5
-    },
-    {
-      "name": "Frying Pan",
-      "desc": "For 👨🏽‍🍳ing 🥘.",
-      "price": 10.5
-    },
-    {
-      "name": "Spatula",
-      "desc": "Use it for grilling.",
-      "price": 7.5
-    },
-    {
-      "name": "Airplane",
-      "desc": "For flying around!",
-      "price": 100000000.5
-    },
-    {
-      "name": "Car",
-      "desc": "For driving.",
-      "price": 10000.5
-    }
-  ]
-}
+[
+  {
+    "name": "Hammer",
+    "desc": "A 🔨",
+    "price": 1.5
+  },
+  {
+    "name": "Chainsaw",
+    "desc": "Cut up 🧟‍♂️s.",
+    "price": 11.5
+  },
+  {
+    "name": "Frying Pan",
+    "desc": "For 👨🏽‍🍳ing 🥘.",
+    "price": 10.5
+  },
+  {
+    "name": "Spatula",
+    "desc": "Use it for grilling.",
+    "price": 7.5
+  },
+  {
+    "name": "Airplane",
+    "desc": "For flying around!",
+    "price": 100000000.5
+  },
+  {
+    "name": "Car",
+    "desc": "For driving.",
+    "price": 10000.5
+  }
+]
