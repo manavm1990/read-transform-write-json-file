@@ -10,7 +10,7 @@ import { promises as fs } from "fs";
     data.forEach((d, i) => (d.id = i + 1));
 
     // Convert into JSON and write back to file
-    fs.writeFile("./db.json", JSON.stringify(data))
+    fs.writeFile("./db.json", JSON.stringify(data, null, 2))
       .then(() => {
         console.log("Rote new data!");
       })
